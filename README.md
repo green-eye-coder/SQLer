@@ -1,2 +1,3 @@
 # SQLer
 "SQLer" is a groundbreaking project that harnesses the power of cutting-edge language models (LLMs) to streamline the process of generating SQL queries from plain text. This innovative application offers a seamless interface where users can input simple text descriptions of the data they wish to retrieve from a database. 
+At the core of SQLer lies its integration with the Google Gemin Generative AI API, enabling unparalleled accuracy and efficiency in query generation. By tapping into this state-of-the-art AI technology, SQLer empowers users with the ability to effortlessly interact with databases without the need for prior SQL knowledge or expertise.
